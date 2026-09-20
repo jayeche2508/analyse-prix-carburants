@@ -45,6 +45,6 @@ python import_csv.py
 
 ## Auteurs
 
-- Carounagarane Jayeche
-- Shayan Issac
-- Anushka Xavier
+- Jayeche CAROUNAGARANE
+- Shayan ISSAC
+- Anushka XAVIER
